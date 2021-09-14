@@ -1,6 +1,6 @@
 body
 {
-    color: #334;
+    color: green;
     text-align: center;
     font-family: "Arial Arrow";
     font-size: 16px;
@@ -10,7 +10,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: red;
     font-size: bold;
     color: white;
     margin: 0;
